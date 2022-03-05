@@ -8,11 +8,11 @@
     font-size: 18px;
 }
 body{
-    background-color: indigo;
+    background-color: orange;
 }
 .wrapper{
     width: 450px;
-    background-color: green;
+    background-color: white;
     padding: 70px 40px;
     position: absolute;
     transform: translate(-50%,-50%);
